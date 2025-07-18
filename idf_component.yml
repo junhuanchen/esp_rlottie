@@ -1,0 +1,13 @@
+dependencies:
+  idf: '>=5.3'
+description: LVGL Rlottie for project xiaozhi-esp32
+files:
+  exclude:
+  - .git
+  - dist
+  - build
+  - __pycache__
+license: MIT
+repository: git://github.com/junhuanchen/esp_rlottie.git
+url: https://github.com/junhuanchen/esp_rlottie.git
+version: 1.3.2
